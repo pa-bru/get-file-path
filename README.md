@@ -1,5 +1,7 @@
 # get-file-path
 
+[![npm version][npm-badge]][npm]
+
 Retrieve a file path from an initial path.
 A common example is to get the path of a package.json.
 
@@ -33,3 +35,6 @@ const packagePath = getFilePath("./", "package.json")
 ## License
 
 get-file-path is [MIT-licensed].
+
+[npm-badge]: https://badge.fury.io/js/get-file-path.svg
+[npm]: https://www.npmjs.com/package/get-file-path
