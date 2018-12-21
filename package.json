@@ -1,0 +1,24 @@
+{
+  "name": "get-file-path",
+  "version": "1.0.0",
+  "description": "get a file path from an initial path",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pa-bru/get-file-path.git"
+  },
+  "bugs": {
+    "url": "https://github.com/pa-bru/get-file-path/issues"
+  },
+  "keywords": [
+    "get",
+    "file",
+    "path",
+    "filepath"
+  ],
+  "author": "Paul-Adrien Bru",
+  "license": "MIT"
+}
